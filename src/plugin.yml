@@ -1,0 +1,9 @@
+main: me.deceptions.scalaplugin.Main
+name: Core
+version: 1
+author: FXA
+description: Plugin made for coreys test server.
+
+commands:
+  core:
+    description: Shows the core author.
